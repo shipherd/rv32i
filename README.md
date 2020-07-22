@@ -9,3 +9,4 @@ test_rv32i.vhd -> Test Bench for rv32i.vhd
 
 test_rv32ip2.vhd -> Test Bench for rv32ip2.vhd
 
+Read the report for details.
